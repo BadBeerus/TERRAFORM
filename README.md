@@ -1,2 +1,0 @@
-# TERRAFORM
-Terraform buildings

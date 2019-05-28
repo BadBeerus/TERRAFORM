@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ageless-answer-241907",
+  "private_key_id": "64ea0d3330272520718fca1f4e1e59f332fb6483",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDV1hH2vDMNKbZz\nIOmsrgrd5ZY3BtAkri0EzGVxsewRkov7mnnmywIHGQTq2aNOOmVCTxl6iwBzzA6o\nXY4zUUJrO/RvbixqLjQCCg1KHOLgYhAJPcBwtfKQVQ4Mv+5cJyEXdq9hdt6ILuWL\nGUFCGENiR/Dhw6ZITAtB1b9YJFTU0KO8INmhnYTd70SnkJVrkf7xTgRL28FQq4w0\n0VbMWy8s+Q2Aqkq9I7P50QSl6urSSFZKDiWtiB9N3QqgWjIW9NZ9fDAUBnZWiYF0\nQv6c5cHj5twHgqMhFx8p5IXeqMJrPlgKzdyE4xRs49TvlsMOj47ErCx4AYqwdVNl\nGRrX9wsZAgMBAAECggEAM5pzAFeffEw2Ludg7N6dWbpHe2UGAuwTiiZnTr4wqXbz\nmBbJ1zPje+ICSUiXO9Ak0pEzJVr5E3jJisD1CZZREH7J+MAeMMuQmnNhjKKW765K\nj2hbEfgens0f1FzXAV8iAb8PCNa+Uh/7HgvMr04aqNOSonDsJmNPjiYuhG9UF30G\n5ZOjD1k/Z3Ch++vG1Gei0PO7uWx+pBBLyQTwqYcsxk8ssFISSNyXOOgDHYncBrG2\ndGyNOCHMI+hS8hbtqoRSCQtCah0Ff3TetyfoLBOjWk61TH/T/u4EcCzYqNM7rtX0\nlJvVNnC//+51wEmhQEDvukf5MOS4iuY84HwrP/ImeQKBgQD7iV4l2SFTwyxictUi\nanH546atQsuxiwqjWq3Jr09XoZcs8HeFMEPEIHcpYmg1g+247fhlNVQ8Vd/q6a1y\ntGkK/NQgMWv1XIPg7vTtrzHVAvICJ1itdiZll+K4UBvC+YqB5PZDPNOtlaTkwChV\nNAWBuljqPdhFEOW9RXVsZ5HGRQKBgQDZoXHAKHeM3Rbq+F4ztBwK1rDrbIrYK33/\nVp5hdWVI1cj8eBmsLcWoEcH3/HGIe/8XyxfJ/g7UuJxKI+Nfl9140LPrYNP9KTdf\nuaJo0oMn8+sKTYCwE7+qT7Gd8OcRfbwqeJ0xLkJdyh5/SZdGh7N2/I4jWnJpkmeZ\n1bbVohcYxQKBgELd+6c4F4H66nupZztk7LOvbwm0Lg4elk9itbxd3EvBazzJGBzR\n/dHPh536yRUg4zs8F8Jf8OqxMXtzb2aEyz/egk2klbx+QZi0LWxaHHcx9z/XUd2b\nAQ4U2HKC6T5ltApf4Y9yRhtpIpKk+pPb5nLcJPLwSePiYBB2vIZ66ee5AoGAHhiE\naYVvGuzMKYxVQqMqqZkM+FGXVdOV5gStfF7Gte7Sj49wRW5DAj4Ka+feL3iuSzUL\nwiQ/Gs2410vlOqf+uaFq8CcAyea0QKmkOwi5mIHTxCX5oN/qRnwk3Omemr2fkuQB\nIPb7uIql8wZTRC6p889zPJJadh0H9K8oTJzQwt0CgYEAicyXNtTZZS+KWXSS6/PK\nwzs3AvOIere+cqz38moBDHhgCPNWc/l4Oy447X1em5uMeBALM2bqbZBseUW37DbU\nhcfA38V9DDPu0w6qcEdmEE+hfr2gI1jNGUdsgm8z2/DCSqdlxYxkYgqvf+v4pBXb\nazulF3/9RDgG9YBV+X265WQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@ageless-answer-241907.iam.gserviceaccount.com",
+  "client_id": "114051673097723775496",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40ageless-answer-241907.iam.gserviceaccount.com"
+}
